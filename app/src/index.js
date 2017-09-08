@@ -39,4 +39,4 @@ const index = {
     ScrollViewDemo,
 };
 
-module.exports = index;
+module.exports =index;
